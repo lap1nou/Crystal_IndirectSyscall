@@ -11,6 +11,7 @@
 # - Pinvoke.net
 # - Ntinternals.net
 # - https://www.ired.team/
+# - https://github.com/cswuyg/simple_win/blob/f1acc34c57af41b617403c60dc1d56eab85a6754/get_parent_process/getparentprocess/getparentprocess.cpp
 
 require "colorize"
 require "winapi"
